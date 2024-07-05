@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-const url = "https://bento.me/piyush-dev"
+const url = "https://www.linkedin.com/in/piyush-dev04/"
 
 func main() {
 	fmt.Println("Go web request")
